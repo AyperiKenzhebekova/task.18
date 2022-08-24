@@ -11,12 +11,6 @@ public class Person1 {
      public Person1(){
 
      }
-    public String getName(){
-        return name;
-    }
-    public int getAge(){
-        return age;
-    }
     public String getGender(){
         return gender;
     }
